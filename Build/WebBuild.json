@@ -1,0 +1,17 @@
+{
+"companyName": "OdysseyCorps",
+"productName": "Odyssey v0.000001",
+"productVersion": "0.000001",
+"dataUrl": "WebBuild.data.unityweb",
+"asmCodeUrl": "WebBuild.asm.code.unityweb",
+"asmMemoryUrl": "WebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "WebBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
