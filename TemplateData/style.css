@@ -22,19 +22,27 @@ html{
     background-color: rgb(189, 231, 238);
 }
 
+#box-container {
+    text-align: center;
+}
+
+#box {
+    display: inline-block;
+}
+
 .controls {
     position: absolute;
-    margin-top: 10%;
-    margin-left: 4%; 
+    margin-top: 5%;
+    margin-left: 5%; 
     float: left; 
     color: #000000;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 h1 {
     background-color: #95e0f7;
     text-align: center;
-    padding: 0.5em;
+    padding: 0.1%;
     margin-left: 20%;
     margin-right: 20%;
     color: #000000;
@@ -43,10 +51,10 @@ h1 {
 
 h2 {
     text-align: center;
-    padding: 0.5em;
+    padding: 1%;
     margin-left: 20%;
     margin-right: 20%;
-    font-size: 16px;
+    font-size: 14px;
     color: #000000;
     font: Arial;
 }
