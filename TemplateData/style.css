@@ -16,3 +16,37 @@
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
+
+/* Make background darker  */
+html{
+    background-color: rgb(189, 231, 238);
+}
+
+.controls {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 4%; 
+    float: left; 
+    color: #000000;
+    font-size: 18px;
+}
+
+h1 {
+    background-color: #95e0f7;
+    text-align: center;
+    padding: 0.5em;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: #000000;
+    font: Arial;
+}
+
+h2 {
+    text-align: center;
+    padding: 0.5em;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 16px;
+    color: #000000;
+    font: Arial;
+}
